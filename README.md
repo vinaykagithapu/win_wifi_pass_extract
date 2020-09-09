@@ -6,10 +6,10 @@ This tool is used to extract the WiFi passwords stored in windows OS.
 2. Windows OS
 
 ## Installation
-Download the zip file.
-Extract the zip file.
+1. Download the zip file.
+2. Extract the zip file.
 
 ## Usage
-Open Command Prompt(cmd) as Administrator.
-Navigation to the 'win_wifi_pass_extract' using 'cd' command
-Now in CMD type following command: python win_pass_extract.py
+1. Open Command Prompt(cmd) as Administrator.
+2. Navigation to the 'win_wifi_pass_extract' using 'cd' command
+3. Now in CMD type following command: python win_pass_extract.py
