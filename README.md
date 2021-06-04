@@ -7,7 +7,7 @@ This tool is used to extract the WiFi passwords stored in windows OS.
 
 ## Installation
 1. Download and Install python3 from offical website : https://www.python.org/downloads/
-2. Download the zip file.
+2. Download the zip file from this repo: https://github.com/vinaykagithapu/win_wifi_pass_extract/archive/refs/heads/master.zip.
 3. Extract the zip file.
 
 ## Usage
